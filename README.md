@@ -25,4 +25,4 @@ A local multiplayer game where two spaceships are battling near a strange black 
 - **left** - *J*
 - **right** - *L*
 - **shoot laser** - *O*
-- **shoot rocket** - *P*# space_duel
+- **shoot rocket** - *P*
